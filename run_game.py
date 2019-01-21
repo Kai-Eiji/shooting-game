@@ -5,6 +5,7 @@ Created on Mon Dec 10 12:15:11 2018
 @author: 開
 """
 
+ # this is the main file to run the game
 import shoot_game, pygame
 
 bg = pygame.image.load("bg.png")
